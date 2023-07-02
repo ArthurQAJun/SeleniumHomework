@@ -1,1 +1,1 @@
-# SeleniumHomework
+[![Build status](https://ci.appveyor.com/api/projects/status/t22d3flb36o39ktx/branch/main?svg=true)](https://ci.appveyor.com/project/ArthurQAJun/seleniumhomework/branch/main)
